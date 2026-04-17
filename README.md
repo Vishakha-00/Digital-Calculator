@@ -37,10 +37,6 @@ This is a simple calculator application built using Java Swing. It performs basi
 * On pressing `=`, the expression is evaluated using a custom method
 * Result is displayed on the screen
 
-## Limitations
-
-* Only basic calculations supported
-* No advanced functions (like sin, cos, etc.)
 
 ## Author
 
